@@ -54,6 +54,3 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 
 * Com a aplicação rodando acessar o endereço http://localhost:5028
 * Cadastrar um novo usuario e realizar o Login na aplicação
-
-# 💜 Participe
-Quer participar dos próximos desafios? Junte-se a [maior comunidade .NET do Brasil 🇧🇷 💜](https://balta.io/discord)
