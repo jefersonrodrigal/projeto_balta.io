@@ -8,7 +8,7 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 
 ## Participantes
 ### 🚀 Líder Técnico
-[JEFERSON RODRIGO DE ALMEIDA - https://github.com/jefersonrodrigal]
+* [JEFERSON RODRIGO DE ALMEIDA - https://github.com/jefersonrodrigal]
 
 ### 👻 Caçadores de Bugs
 * [JEFERSON RODRIGO DE ALMEIDA - https://github.com/jefersonrodrigal]
